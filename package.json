@@ -65,7 +65,7 @@
   },
   "peerDependencies": {
     "@vitejs/plugin-vue": ">=2.3.4",
-    "vite": "^5.0.2"
+    "vite": ">=5.0.2"
   },
   "devDependencies": {
     "@antfu/eslint-config": "^2.1.0",
